@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "title": "Home Server",
+    "description": "A fully responsive e-commerce platform with shopping cart and payment integration.",
+    "longDescription": "This e-commerce website was built from the ground up with user experience in mind. It features product filtering, search functionality, user accounts, shopping cart persistence, and secure payment processing. The admin panel allows for easy product and inventory management.",
+    "image": "https://via.placeholder.com/600x400?text=E-commerce+Project",
+    "gallery": [
+      "https://via.placeholder.com/800x600?text=Homepage",
+      "https://via.placeholder.com/800x600?text=Product+Page",
+      "https://via.placeholder.com/800x600?text=Shopping+Cart"
+    ],
+    "technologies": ["HTML5", "CSS3", "JavaScript", "Node.js", "MongoDB", "Stripe API"],
+    "features": [
+      "User authentication and profiles",
+      "Product categorization and filtering",
+      "Shopping cart with local storage",
+      "Secure checkout with Stripe",
+      "Order history and tracking",
+      "Admin dashboard for inventory management"
+    ],
+    "liveUrl": "#",
+    "codeUrl": "#"
+  },
+  {
+    "id": 2,
+    "title": "Task Management App",
+    "description": "A productivity application to manage tasks, deadlines and team collaboration.",
+    "longDescription": "This task management application helps teams stay organized and meet deadlines efficiently. Users can create projects, assign tasks to team members, set deadlines, track progress, and receive notifications for upcoming or overdue tasks.",
+    "image": "https://via.placeholder.com/600x400?text=Task+Management+App",
+    "gallery": [
+      "https://via.placeholder.com/800x600?text=Dashboard",
+      "https://via.placeholder.com/800x600?text=Task+View",
+      "https://via.placeholder.com/800x600?text=Calendar"
+    ],
+    "technologies": ["React.js", "Redux", "Firebase", "Material UI", "React DnD"],
+    "features": [
+      "Project and task creation",
+      "Drag and drop task management",
+      "Due date reminders",
+      "Team member assignments",
+      "Progress tracking",
+      "Real-time updates with Firebase"
+    ],
+    "liveUrl": "#",
+    "codeUrl": "#"
+  },
+  {
+    "id": 3,
+    "title": "Weather Dashboard",
+    "description": "Real-time weather application with forecast data and location services.",
+    "longDescription": "A comprehensive weather application that displays current conditions and forecasts for any location worldwide. The app uses geolocation services to provide local weather by default and allows users to search for weather information in any city.",
+    "image": "https://via.placeholder.com/600x400?text=Weather+Dashboard",
+    "gallery": [
+      "https://via.placeholder.com/800x600?text=Current+Weather",
+      "https://via.placeholder.com/800x600?text=5-Day+Forecast",
+      "https://via.placeholder.com/800x600?text=Weather+Map"
+    ],
+    "technologies": ["JavaScript", "OpenWeather API", "Geolocation API", "CSS Grid", "Chart.js"],
+    "features": [
+      "Current weather conditions",
+      "5-day and hourly forecasts",
+      "Location search with autocomplete",
+      "Interactive weather maps",
+      "Weather alerts and notifications",
+      "Historical weather data"
+    ],
+    "liveUrl": "#",
+    "codeUrl": "#"
+  },
+  {
+    "id": 4,
+    "title": "Social Media Platform",
+    "description": "A social networking application with profiles, posts, and real-time chat.",
+    "longDescription": "This social media platform enables users to connect, share content, and communicate in real-time. Features include customizable user profiles, media sharing, post interactions (likes, comments, shares), and private messaging.",
+    "image": "https://via.placeholder.com/600x400?text=Social+Media+App",
+    "gallery": [
+      "https://via.placeholder.com/800x600?text=News+Feed",
+      "https://via.placeholder.com/800x600?text=Profile+Page",
+      "https://via.placeholder.com/800x600?text=Messaging"
+    ],
+    "technologies": ["Vue.js", "Node.js", "Socket.io", "MongoDB", "AWS S3"],
+    "features": [
+      "User profiles with custom avatars",
+      "Post creation with image and video support",
+      "Real-time notifications and messaging",
+      "Friend connections and requests",
+      "Content moderation",
+      "Privacy controls and settings"
+    ],
+    "liveUrl": "#",
+    "codeUrl": "#"
+  },
+  {
+    "id": 5,
+    "title": "Recipe Finder App",
+    "description": "A culinary application to discover and save recipes based on available ingredients.",
+    "longDescription": "The Recipe Finder helps users discover meals they can cook with ingredients they already have. Users can search by ingredient, dietary restrictions, cuisine type, or meal category. The app also provides nutritional information and allows users to save favorite recipes.",
+    "image": "https://via.placeholder.com/600x400?text=Recipe+Finder",
+    "gallery": [
+      "https://via.placeholder.com/800x600?text=Recipe+Search",
+      "https://via.placeholder.com/800x600?text=Recipe+Details",
+      "https://via.placeholder.com/800x600?text=Saved+Recipes"
+    ],
+    "technologies": ["React Native", "Expo", "Firebase", "Spoonacular API", "Redux"],
+    "features": [
+      "Ingredient-based recipe search",
+      "Dietary and allergy filters",
+      "Step-by-step cooking instructions",
+      "Nutritional information",
+      "Favorite recipes and collections",
+      "Shopping list creation"
+    ],
+    "liveUrl": "#",
+    "codeUrl": "#"
+  },
+  {
+    "id": 6,
+    "title": "Fitness Tracker",
+    "description": "A workout tracking application to monitor fitness progress and set goals.",
+    "longDescription": "This fitness tracking application helps users monitor their physical activity, set fitness goals, and track their progress over time. Features include workout planning, exercise tracking, goal setting, and progress visualization with charts and statistics.",
+    "image": "https://via.placeholder.com/600x400?text=Fitness+Tracker",
+    "gallery": [
+      "https://via.placeholder.com/800x600?text=Dashboard",
+      "https://via.placeholder.com/800x600?text=Workout+Planner",
+      "https://via.placeholder.com/800x600?text=Progress+Charts"
+    ],
+    "technologies": ["Angular", "TypeScript", "Firebase", "NgRx", "D3.js"],
+    "features": [
+      "Workout planning and scheduling",
+      "Exercise library with instructions",
+      "Goal setting and achievement tracking",
+      "Progress visualization with charts",
+      "Custom workout creation",
+      "Calorie tracking and BMI calculator"
+    ],
+    "liveUrl": "#",
+    "codeUrl": "#"
+  }
+]
