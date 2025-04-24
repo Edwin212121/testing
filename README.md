@@ -1,3 +1,1 @@
-# testing
-
-Testing things out :)
+This is a website portfio for Edwin 
